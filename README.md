@@ -39,7 +39,7 @@ The project was developed using the following technologies
     - Clone the repository
     - Enter directory
     - Install dependencies - run 'npm install'
-    - Start project - run 'npm run dev'
+    - Start project - 'npm run dev'
 
 ---
 
