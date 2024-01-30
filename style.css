@@ -5,7 +5,7 @@
   font-family: "Roboto", sans-serif;
 
   & main {
-    padding-top: 20vh;
+    padding-top: 200px;
     min-height: 90vh;
     padding-bottom: 10vh;
     display: flex;
@@ -21,7 +21,7 @@
   }
 
   & header {
-    height: 20vh;
+    height: 150px;
     width: 100vw;
     position: fixed;
   }
