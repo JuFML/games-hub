@@ -6,4 +6,3 @@ export * from "./paginacion";
 export * from "./typePokemon";
 export * from "./dataPokemon";
 export * from "./game3EnRaya";
-export * from "./gameAhorcado";

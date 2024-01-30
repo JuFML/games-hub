@@ -1,5 +1,5 @@
 import { getUser } from "../global/state/global.state";
-import { Login, printTemplateDashboard, PrintPokemonPage, PrintTresEnRayaPage, PrintAhorcadoPage } from "../pages";
+import { Login, printTemplateDashboard, PrintPokemonPage, PrintTresEnRayaPage } from "../pages";
 
 export const initControler = (pagesRender) => {
 
@@ -15,9 +15,6 @@ export const initControler = (pagesRender) => {
       break;
     case "TresEnRaya":
       PrintTresEnRayaPage();
-      break;
-    case "Ahorcado":
-      PrintAhorcadoPage();
       break;
     case "Login":
       Login();

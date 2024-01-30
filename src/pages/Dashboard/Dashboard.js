@@ -23,15 +23,6 @@ const template = () => `
           <h2>3 EN RAYA</h2>
         </figure>
       </li>
-      <li>
-        <figure id="navigateAhorcado">
-          <img
-            src="images/ahorcado_0.png"
-            alt="go to ahorcado"
-          />
-          <h2>AHORCADO</h2>
-        </figure>
-      </li>
     </ul>
   </div>
 `;
